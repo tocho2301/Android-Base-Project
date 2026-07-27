@@ -24,3 +24,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "ExampleBaseProyect"
 include(":app")
+include(":data")
+include(":domain")
